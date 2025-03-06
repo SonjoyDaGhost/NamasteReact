@@ -1,0 +1,25 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is basic react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonjoyDaGhost/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Sonjoy Soren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonjoyDaGhost/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/SonjoyDaGhost/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
